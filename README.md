@@ -1,0 +1,1 @@
+This is a web-based application that calculates the success rating or review ratings of a movie. This has a simple user interface and easy-to-use. The application contains user-friendly functionalities and features.
